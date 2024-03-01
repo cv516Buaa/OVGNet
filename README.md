@@ -39,7 +39,7 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 ## Demo Setting
 * **Novel** indicates the **unseen** objects in training.
 * **Base** denotes the **seen** objects in training.
-* Battery and power drill are novel classes with irregular shapes, which belong to hard task.
+* Battery and power drill are novel classes, which belong to hard task.
 * Apple and pear are base classes, which belong to simple task.
 
       
@@ -49,9 +49,9 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 
 ## Installation
-* Ubantu 18.04
-* Torch 1.11
-* CUDA 11.3
+* Ubantu==18.04 
+* Torch==1.11 Torchvision==0.12.0
+* CUDA==11.3
 ```
 ## Cite
 
