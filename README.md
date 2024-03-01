@@ -60,13 +60,28 @@ conda create -n OVGNet python=3.9
 ```
 conda activate OVGNet
 ```
+```
 cd /OVGNet/
+```
+```
 pip install -r requirments.txt
+```
+```
 cd graspnet/graspnet/pointnet2
+```
+```
 python setup.py install
+```
+```
 cd graspnet/graspnet/knn
+```
+```
 python setup.py install
+```
+```
 cd groundingdino
+```
+```
 pip install -e .
 ```
 ## Cite
