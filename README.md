@@ -29,11 +29,12 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 
 ## TODO
+
 - [x] Release grapsping demo
 - [ ] Release framework
 - [ ] Release DATASET
       
 
 ## Grasping Demo
-Grasping Demo = https://github.com/cv516Buaa/OV-G/assets/94512783/2e0e2639-487a-4123-b171-d8d361c4b07e
+[Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/fb515adf-3e61-4c69-a813-5a4d573dfebc)
 ```
