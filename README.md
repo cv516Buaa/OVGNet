@@ -55,7 +55,8 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 * CUDA==11.3
 
 ```
-
+cd /OVGNet/
+pip install -r requirments.txt
 ```
 ## Cite
 
