@@ -50,8 +50,11 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ## Installation
 * Ubantu==18.04 
-* Torch==1.11 Torchvision==0.12.0
+* Torch==1.11, Torchvision==0.12.0
 * CUDA==11.3
+
+```
+
 ```
 ## Cite
 
