@@ -40,5 +40,7 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
       
 
 ## Grasping Demo
+**Base** indicates the **seen objects** in training visual-linguistic perception system
+**Novel** denotes the **unseen objects** in training visual-linguistic perception system
 [Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/1ff2e4d6-83a5-450d-ba7a-ad2616bdb31c)
 ```
