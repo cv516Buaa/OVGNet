@@ -29,7 +29,7 @@
 
 
 ## Highlight!!!!
-This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping". we refer to [Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping). Many thanks to this excellent repos.
+This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping". we refer to [Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping), [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO), [VL-Grasp](https://github.com/luyh20/VL-Grasp). Many thanks to these excellent repos.
 
 ## TODO
 - [x] Release grapsping demo
