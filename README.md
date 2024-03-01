@@ -38,13 +38,9 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ## Demo Setting
   * **Novel** indicates the **unseen** objects in training.
-<br />
   * **Base** denotes the **seen** objects in training.
-<br />
   * Battery and power drill are novel classes with irregular shapes, which belong to hard task.
-<br />
   * Apple and pear are base classes, which belong to simple task.
-<br />
 
       
 
