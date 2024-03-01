@@ -56,7 +56,10 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ```
 conda create -n OVGNet python=3.9
+```
+```
 conda activate OVGNet
+```
 cd /OVGNet/
 pip install -r requirments.txt
 cd graspnet/graspnet/pointnet2
