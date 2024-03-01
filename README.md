@@ -45,7 +45,6 @@ Battery and power drill are novel classes with irregular shapes, which belong to
 <br />
 Apple and pear are base classes, which belong to simple task.
 <br />
-The max grasping attempts is set to 3.
 
       
 
