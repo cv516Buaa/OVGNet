@@ -77,7 +77,6 @@ cd groundingdino
 pip install -e .
 ```
 
-**please add the assets into OVGNet folder**
 ## Run
 ```
 cd /OVGNet/
