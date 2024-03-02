@@ -78,6 +78,12 @@ pip install -e .
 ```
 
 **please add the assets into OVGNet folder**
+## Run
+```
+cd /OVGNet/
+python test.py
+```
+if you want test different tasks, please modify the args.test_dir
 
 ## Cite
 
