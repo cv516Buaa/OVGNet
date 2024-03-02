@@ -56,32 +56,22 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ```
 conda create -n OVGNet python=3.9
-```
-```
 conda activate OVGNet
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
 ```
+
+
 ```
 cd /OVGNet/
-```
-```
 pip install -r requirments.txt
 ```
+
 ```
 cd graspnet/graspnet/pointnet2
-```
-```
 python setup.py install
-```
-```
 cd graspnet/graspnet/knn
-```
-```
 python setup.py install
-```
-```
 cd groundingdino
-```
-```
 pip install -e .
 ```
 ## Cite
