@@ -33,7 +33,6 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ## TODO
 - [x] Release grapsping demo
-- [ ] Release framework
 - [ ] Release DATASET
 
 ## Demo Setting
