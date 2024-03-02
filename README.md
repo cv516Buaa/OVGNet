@@ -43,7 +43,7 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
       
 
-## Grasping Demo
+## Demo Video
 [Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/1ff2e4d6-83a5-450d-ba7a-ad2616bdb31c)
 
 
