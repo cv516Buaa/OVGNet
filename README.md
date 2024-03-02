@@ -52,8 +52,8 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 * Python==3.9 
 * Torch==1.11, Torchvision==0.12.0
 * CUDA==11.3
-* checkpoint==[OVGANet](链接：https://pan.baidu.com/s/13j4XBza1LNzsh-5RSfdFiQ?pwd=f3md)
-* assets==[assets](链接：https://pan.baidu.com/s/1vUestnCMZKZU5Kb2lC1LMA?pwd=uov1)
+* checkpoint==[OVGANet](https://pan.baidu.com/s/13j4XBza1LNzsh-5RSfdFiQ?pwd=f3md)
+* assets==[assets](https://pan.baidu.com/s/1vUestnCMZKZU5Kb2lC1LMA?pwd=uov1)
 
 **please add the assets into OVGNet folder**
 ```
