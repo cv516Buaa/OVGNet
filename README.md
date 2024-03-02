@@ -82,7 +82,6 @@ pip install -e .
 cd /OVGNet/
 python test.py --testing_case_dir ./test_cases/simple/apple --pretrain ./checkpoint/OVGANet
 ```
-**if you want test different tasks, please modify the args.test_dir**
 
 ## Cite
 
