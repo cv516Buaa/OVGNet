@@ -54,6 +54,8 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 * CUDA==11.3
 * checkpoint==[OVGANet]()
 * assets==[assets]()
+
+**please add the assets into OVGNet folder**
 ```
 conda create -n OVGNet python=3.9
 conda activate OVGNet
@@ -74,6 +76,9 @@ python setup.py install
 cd groundingdino
 pip install -e .
 ```
+
+**please add the assets into OVGNet folder**
+
 ## Cite
 
 
