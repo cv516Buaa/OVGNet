@@ -82,7 +82,7 @@ pip install -e .
 cd /OVGNet/
 python test.py
 ```
-if you want test different tasks, please modify the args.test_dir
+**if you want test different tasks, please modify the args.test_dir**
 
 ## Cite
 
