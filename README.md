@@ -15,8 +15,6 @@
     ·
     <strong>Yujing Ma</strong></a>
     ·
-    <a href="https://cv-shuchanglyu.github.io/EnHome.html"><strong>Shuchang Lyu</strong></a>
-    ·
     <a href="https://sites.google.com/view/guangliangcheng"><strong>Guangliang Cheng</strong></a>
     <br />
 <p align="center">
