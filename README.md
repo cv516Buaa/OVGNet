@@ -54,6 +54,7 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 * assets==[assets](https://pan.baidu.com/s/1vUestnCMZKZU5Kb2lC1LMA?pwd=uov1)
 
 **please add the assets into OVGNet folder**
+<br />
 **please ensure the CUDA version is 11.3**
 ```
 conda create -n OVGNet python=3.9
