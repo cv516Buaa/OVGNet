@@ -16,6 +16,8 @@
     <strong>Yujing Ma</strong></a>
     ·
     <a href="https://sites.google.com/view/guangliangcheng"><strong>Guangliang Cheng</strong></a>
+    ·
+    <strong>Chenguang Yang</strong></a>
     <br />
 <p align="center">
 
