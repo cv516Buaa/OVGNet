@@ -43,10 +43,14 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
       
 
+
+
+
+
 ## Demo Video
 
 
-[Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/10f54a2e-fa18-40fb-8bc0-cb9f2ead86cb)
+[Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/6a4a1f64-6c7f-4012-8774-60babf933290)
 
 
 ## Installation
