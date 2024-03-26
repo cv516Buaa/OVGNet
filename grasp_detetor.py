@@ -141,21 +141,16 @@ class Graspnet:
         '''
 
         # generate grasping poses in a scene
-        gg = self.compute_grasp_pose(full_pcd)#对于第一个场景得到了28个抓取姿势
+        gg = self.compute_grasp_pose(full_pcd)
         del_index = []
         for index, value in enumerate(gg):
-            if value.score < 0.35:
+            if value.score < 0.15:
                 del_index.append(index)
         for i in reversed(del_index):
             gg.remove(i)
 
-        # for i in gg:
-
-        # for grasp in gg
-        # grap_pose_set1 = grasp4
-
-        grasp_pose_set, grasp_pose_dict, remain_gg = self.assign_grasp_pose(gg, object_poses)#grasp_pose_set是所有的抓取姿势，不区分是哪一个对象的。grasp_pose_dict区分每个对象有多少个抓取姿势。
-        #remain_gg是爪子的三维模型表示。
+        grasp_pose_set, grasp_pose_dict, remain_gg = self.assign_grasp_pose(gg, object_poses)
+        
         # visualization
         # frame = o3d.geometry.TriangleMesh.create_coordinate_frame(0.1)
         # o3d.visualization.draw_geometries([frame, full_pcd, *gg.to_open3d_geometry_list()])
