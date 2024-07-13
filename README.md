@@ -31,9 +31,7 @@
 ## Highlight!!!!
 This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping". we refer to [Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping), [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO), [VL-Grasp](https://github.com/luyh20/VL-Grasp). Many thanks to these excellent repos.
 
-## TODO
-- [x] Release grapsping demo
-- [ ] Release DATASET
+
 
 ## Demo Setting
 * **Novel** indicates the **unseen** objects in training.
@@ -52,6 +50,11 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 [Demo](https://github.com/cv516Buaa/OVGNet/assets/94512783/6a4a1f64-6c7f-4012-8774-60babf933290)
 
+
+## Dataset
+[OVGrapsping](https://drive.google.com/drive/u/2/my-drive) follows GroundingDINO data format.
+The OVGrapsing dataset com-prises 117 categories and 63,385 instances. Instances are sourced from three distinct origins: RoboRefIt, GraspNet, simulated environment.
+The dataset is divided into two categories: the base category consists 51,857 instances, and the novel category comprises 11,528 instances. 
 
 ## Installation
 * Ubantu==18.04
