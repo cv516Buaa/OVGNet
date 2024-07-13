@@ -53,7 +53,8 @@ This repo is the implementation of "OVGNet: An Unified Visual-Linguistic Framewo
 
 ## Dataset
 * [OVGrasping](https://drive.google.com/drive/u/2/my-drive) follows GroundingDINO data format.
-* The OVGrapsing dataset com-prises 117 categories and 63,385 instances. Instances are sourced from three distinct origins: RoboRefIt, GraspNet, simulated environment.
+* The OVGrapsing dataset comprises 117 categories and 63,385 instances.
+* Instances are sourced from three distinct origins: RoboRefIt, GraspNet, simulated environment.
 * The dataset is divided into two categories: the base category consists 51,857 instances, and the novel category comprises 11,528 instances. 
 
 ## Installation
