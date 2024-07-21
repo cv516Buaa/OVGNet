@@ -106,5 +106,3 @@ python test.py --testing_case_dir ./test_cases/simple/apple --pretrain ./checkpo
     primaryClass = {cs.RO},
     url = {https://arxiv.org/abs/2407.13175}, 
 }
-
-
