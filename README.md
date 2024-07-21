@@ -96,5 +96,15 @@ python test.py --testing_case_dir ./test_cases/simple/apple --pretrain ./checkpo
 ```
 
 ## Cite
+```
+@InProceedings{Li_2024_IROS,
+    author = {Li Meng and Zhao Qi and Lyu Shuchang and Wang Chunlei and Ma Yujing and Cheng Guangliang and Yang Chenguang},
+    title = {OVGNet: A Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping},
+    year = {2024},
+    eprint = {2407.13175},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.RO},
+    url = {https://arxiv.org/abs/2407.13175}, 
+}
 
 
