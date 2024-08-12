@@ -1,0 +1,17 @@
+{
+  "train": [
+    {
+      "root": "/media/lm/Elements/img_total",
+      "anno": "/media/lm/Elements/base_test.jsonl",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "path/coco_2017/val2017",
+      "anno": "config/instances_val2017.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}
